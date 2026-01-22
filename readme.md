@@ -1,10 +1,8 @@
-# ☝️ Se ainda não estiver instalado, instalar o Git/GitHub Desktop no PC. Pode verificar a instalação e versão pelo comando "git --version" no Terminal
-
-## 🖥️ Tem duas opções principais para instalar e usar o Git/GitHub Desktop no PC
+## 1️⃣ Se ainda não estiver instalado, instalar o Git/GitHub Desktop no PC. Pode verificar a instalação e versão pelo comando "git --version" no Terminal. Tem duas opções principais para instalar e usar o Git/GitHub Desktop no PC
 
 ---
 
-## 🔹 1. Instalar o **Git** (linha de comando)
+## 1. Instalar o **Git** (linha de comando)
 O Git é a ferramenta essencial para trabalhar com repositórios.  
 ### Passos:
 1. Vá até o site oficial: [https://git-scm.com/downloads](https://git-scm.com/downloads).
@@ -14,11 +12,11 @@ O Git é a ferramenta essencial para trabalhar com repositórios.
    ```bash
    git --version
    ```
-   Se aparecer a versão, significa que deu certo ✅.
+   Se aparecer a versão, significa que deu certo.
 
 ---
 
-## 🔹 2. Instalar o **GitHub Desktop** (interface gráfica)
+## 2. Instalar o **GitHub Desktop** (interface gráfica)
 Se você prefere algo mais visual e simples:
 1. Acesse: [https://desktop.github.com](https://desktop.github.com).
 2. Baixe e instale o **GitHub Desktop**.
@@ -27,16 +25,14 @@ Se você prefere algo mais visual e simples:
 
 ---
 
-## ✨ Qual escolher?
+## Qual escolher?
 - **Git (linha de comando):** mais flexível e usado profissionalmente.
 - **GitHub Desktop:** ideal para iniciantes ou quem prefere interface gráfica.
 
 ---
 ---
 
-# ✌️ Fazer upload de um projeto pronto ou em andamento para o GitHub
-
-## 📂 Passo a passo para subir seu projeto no GitHub
+# 2️⃣ Fazer upload de um projeto pronto para o GitHub. Passo a passo para subir seu projeto no GitHub
 
 ---
 
@@ -95,6 +91,58 @@ git push -u origin main
 
 ---
 
-## ✅ Resultado
+## Observação
+- Se for a primeira vez que você está dando `push`, pode ser necessário configurar seu usuário:
+  ```bash
+  git config --global user.name "Seu Nome"
+  git config --global user.email "seuemail@exemplo.com"
+  ```
+- Escolha a forma de login no Git e começe os commits
+
+---
+
+## Resultado
 Agora seu projeto estará disponível no GitHub!  
 Você pode verificar acessando o repositório pelo navegador.
+
+---
+---
+---
+
+## 3️⃣ Para mandar as edições do seu projeto GitHub
+
+---
+
+### 1. Verificar o estado atual do repositório, se é necessário ou não o próximo commit
+No terminal:
+```bash
+git status
+```
+
+### 2. Se neceásrio, adicionar todas as alterações (novos arquivos, arquivos modificados e até exclusões) que estão na pasta do projeto para serem incluídas no próximo commit
+No terminal:
+```bash
+git add .
+```
+
+### 3. Registrar as alterações preparadas com "git add" no histórico do Git, junto com uma mensagem explicativa
+No terminal:
+```bash
+git commit -m "mensagem"
+```
+
+### 4. Enviar os commits que locais para o repositório remoto
+No terminal:
+```bash
+git push 
+```
+
+---
+
+### Observação
+No VS Code, também dá para clicar em **Sync Changes** (ícone de setinhas ↔️) que faz o *push* automaticamente.
+
+---
+
+### Etapa final
+Abrir o repositório no navegador e se certificar que as mudanças apareceram.
