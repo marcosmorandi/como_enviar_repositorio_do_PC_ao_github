@@ -1,6 +1,6 @@
-# ☝️ Se ainda não estiver instalado, instalar o Git/GitHub Desktop no PC
+# ☝️ Se ainda não estiver instalado, instalar o Git/GitHub Desktop no PC. Pode verificar a instalação e versão pelo comando "git --version" no Terminal.
 
-## Você tem duas opções principais para instalar e usar o Git/GitHub Desktop no seu PC 🖥️:
+Você tem duas opções principais para instalar e usar o Git/GitHub Desktop no seu PC 🖥️:
 
 ---
 
