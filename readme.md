@@ -29,8 +29,6 @@ Se você prefere algo mais visual e simples:
 - **Git (linha de comando):** mais flexível e usado profissionalmente.
 - **GitHub Desktop:** ideal para iniciantes ou quem prefere interface gráfica.
 
-<br><br>
-<br><br>
 ---
 <br><br>
 <br><br>
