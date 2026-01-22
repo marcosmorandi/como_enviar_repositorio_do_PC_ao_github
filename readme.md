@@ -30,6 +30,8 @@ Se você prefere algo mais visual e simples:
 - **GitHub Desktop:** ideal para iniciantes ou quem prefere interface gráfica.
 
 <br><br>
+___
+<br><br>
 
 ## 2️⃣ Fazer upload de um projeto pronto para o GitHub. Passo a passo para subir seu projeto no GitHub
 
@@ -108,7 +110,9 @@ Você pode verificar acessando o repositório pelo navegador.
 
 ## 3️⃣ Para mandar as edições do seu projeto GitHub
 
----
+<br><br>
+___
+<br><br>
 
 ### 1. Verificar o estado atual do repositório, se é necessário ou não o próximo commit
 No terminal:
