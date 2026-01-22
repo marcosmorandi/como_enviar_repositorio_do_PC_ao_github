@@ -1,5 +1,6 @@
-# ☝️ Se ainda não estiver instalado, instalar o Git/GitHub Desktop no PC, pode verificar a instalação e versão pelo comando "git --version" no terminal.
-# Você tem duas opções principais para instalar e usar o Git/GitHub Desktop no seu PC 🖥️:
+# ☝️ Se ainda não estiver instalado, instalar o Git/GitHub Desktop no PC. Pode verificar a instalação e versão pelo comando "git --version" no terminal.
+
+## Você tem duas opções principais para instalar e usar o Git/GitHub Desktop no seu PC 🖥️:
 
 ---
 
@@ -30,12 +31,9 @@ Se você prefere algo mais visual e simples:
 - **Git (linha de comando):** mais flexível e usado profissionalmente.
 - **GitHub Desktop:** ideal para iniciantes ou quem prefere interface gráfica.
 
----
----
+# ---
 
-#✌️ Fazer upload de um projeto pronto ou em andamento para o GitHub:
-
----
+# ✌️ Fazer upload de um projeto pronto ou em andamento para o GitHub:
 
 ## 📂 Passo a passo para subir seu projeto no GitHub
 
@@ -97,5 +95,3 @@ git push -u origin main
 ## ✅ Resultado
 Agora seu projeto estará disponível no GitHub!  
 Você pode verificar acessando o repositório pelo navegador.
-
----
