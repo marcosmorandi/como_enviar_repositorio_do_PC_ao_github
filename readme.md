@@ -29,7 +29,7 @@ Se você prefere algo mais visual e simples:
 - **Git (linha de comando):** mais flexível e usado profissionalmente.
 - **GitHub Desktop:** ideal para iniciantes ou quem prefere interface gráfica.
 
-#
+<br><br>
 
 ## 2️⃣ Fazer upload de um projeto pronto para o GitHub. Passo a passo para subir seu projeto no GitHub
 
@@ -104,7 +104,7 @@ git push -u origin main
 Agora seu projeto estará disponível no GitHub!  
 Você pode verificar acessando o repositório pelo navegador.
 
-#
+<br><br>
 
 ## 3️⃣ Para mandar as edições do seu projeto GitHub
 
