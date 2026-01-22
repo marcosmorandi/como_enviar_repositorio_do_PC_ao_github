@@ -30,7 +30,9 @@ Se você prefere algo mais visual e simples:
 - **GitHub Desktop:** ideal para iniciantes ou quem prefere interface gráfica.
 
 <br><br>
-==========
+<br><br>
+---
+<br><br>
 <br><br>
 
 ## 2️⃣ Fazer upload de um projeto pronto para o GitHub. Passo a passo para subir seu projeto no GitHub
@@ -107,7 +109,9 @@ Agora seu projeto estará disponível no GitHub!
 Você pode verificar acessando o repositório pelo navegador.
 
 <br><br>
-==========
+<br><br>
+---
+<br><br>
 <br><br>
 
 ## 3️⃣ Para mandar as edições do seu projeto GitHub
@@ -153,7 +157,7 @@ clear
 ---
 
 ### 6. Ver o histórico dos últimos comandos para agilizar ou relembrar
-No terminal:
+No terminal:<br><br>
 usar as setas para cima ⬆️ ou para baixo ⬇️ no teclado
 
 ---
