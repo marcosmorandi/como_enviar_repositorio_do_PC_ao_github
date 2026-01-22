@@ -106,8 +106,6 @@ git push -u origin main
 Agora seu projeto estará disponível no GitHub!  
 Você pode verificar acessando o repositório pelo navegador.
 
-<br><br>
-<br><br>
 ---
 <br><br>
 <br><br>
