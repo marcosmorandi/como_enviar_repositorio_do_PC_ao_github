@@ -29,8 +29,10 @@ Se você prefere algo mais visual e simples:
 - **Git (linha de comando):** mais flexível e usado profissionalmente.
 - **GitHub Desktop:** ideal para iniciantes ou quem prefere interface gráfica.
 
----
----
+
+.
+
+
 
 # 2️⃣ Fazer upload de um projeto pronto para o GitHub. Passo a passo para subir seu projeto no GitHub
 
@@ -91,23 +93,23 @@ git push -u origin main
 
 ---
 
-## Observação
+### Observação
 - Se for a primeira vez que você está dando `push`, pode ser necessário configurar seu usuário:
   ```bash
   git config --global user.name "Seu Nome"
   git config --global user.email "seuemail@exemplo.com"
   ```
-- Escolha a forma de login no Git e começe os commits
+- Escolher entre as opções de login no Git.
 
 ---
 
-## Resultado
+### Resultado
 Agora seu projeto estará disponível no GitHub!  
 Você pode verificar acessando o repositório pelo navegador.
 
----
----
----
+
+.
+
 
 ## 3️⃣ Para mandar as edições do seu projeto GitHub
 
@@ -119,17 +121,23 @@ No terminal:
 git status
 ```
 
+---
+
 ### 2. Se neceásrio, adicionar todas as alterações (novos arquivos, arquivos modificados e até exclusões) que estão na pasta do projeto para serem incluídas no próximo commit
 No terminal:
 ```bash
 git add .
 ```
 
+---
+
 ### 3. Registrar as alterações preparadas com "git add" no histórico do Git, junto com uma mensagem explicativa
 No terminal:
 ```bash
 git commit -m "mensagem"
 ```
+
+---
 
 ### 4. Enviar os commits que locais para o repositório remoto
 No terminal:
@@ -139,10 +147,26 @@ git push
 
 ---
 
-### Observação
-No VS Code, também dá para clicar em **Sync Changes** (ícone de setinhas ↔️) que faz o *push* automaticamente.
+### 5. Opcionalmente para limpar o terminal
+No terminal:
+```bash
+clear
+```
 
 ---
 
-### Etapa final
+### 6. Ver o histórico dos últimos comandos para agilizar ou relembrar
+No terminal:
+```bash
+usar as setas para cima ⬆️ ou para baixo ⬇️ no teclado
+```
+
+---
+
+### Observação
+No VS Code, também dá para clicar em **Source Control** (ícone de 3 círculos conectados por linhas) que faz o procedimento de maneira mais intuitiva com interface gráfica para iniciantes.
+
+---
+
+### Resultado
 Abrir o repositório no navegador e se certificar que as mudanças apareceram.
